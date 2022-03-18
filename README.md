@@ -11,7 +11,7 @@ On the browser, it should either show "Success!" Or error message from PostgreSQ
 
 When a user accesses the Flask server with 127.0.0.1:5000/api/unique, unique fruits in basket_a and unique fruits in basket_b will show in an HTML table. If there are any errors from PostgreSQL, the error message will show on the browser.
 
-Once the files have been properly downloaded:
+Once both of the zip files have been properly downloaded:
 Ensure you have Python 3 virtual environment installed with: 
     sudo apt-get install python3-venv
 With the terminal open, cd into the proper folder for each question/attempt.
