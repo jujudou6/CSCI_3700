@@ -1,3 +1,6 @@
+# This is the written code to update basket_a for quick reference.
+# For a full run ensure you download the whole zip file...
+
 from flask import Flask, render_template
 import util
 
