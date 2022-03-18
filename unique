@@ -1,3 +1,5 @@
+# This is the written code to show the unique fruits on a table for quick reference.
+
 from flask import Flask, render_template
 import util
 
