@@ -13,16 +13,16 @@ When a user accesses the Flask server with 127.0.0.1:5000/api/unique, unique fru
 
 Once both of the zip files have been properly downloaded:
 Ensure you have Python 3 virtual environment installed with: 
-    sudo apt-get install python3-venv
+    "sudo apt-get install python3-venv"
 With the terminal open, cd into the proper folder for each question/attempt.
 Then create a virtual environment:
-    python3 -m venv python_venv
+    "python3 -m venv python_venv"
 Activate the environment:
-    source python_venv/bin/activate
+    "source python_venv/bin/activate"
 Fulfill the requirements:
-    pip3 install -r requirements.txt
+    "pip3 install -r requirements.txt"
 Start the server:
-    python3 main.py
+    "python3 main.py"
 
 If ran correctly, the environment will output the flask server. 
 It will look like "Running on http://127.0.0.1:5000/"
